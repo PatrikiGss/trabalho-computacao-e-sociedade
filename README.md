@@ -1,1 +1,1 @@
-Ola bem vindo ao meu perfil de github, me chamo Patriki, prazer!!!
+atividades de introduçao a programação atividade para aula de computação e sociedade.
